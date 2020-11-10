@@ -35,7 +35,7 @@ Donasi berkala datang dengan keuntungan eksklusif, misalnya namamu tercantum di 
 
 <support-OpenCollectiveGroup group="platinum" />
 
-### Sponsor Special (China)
+### Sponsor Spesial (China)
 
 <support-SponsorGroup group="platinum_sponsors_china" class="platinum" />
 
