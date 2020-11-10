@@ -57,4 +57,4 @@ Donasi berkala datang dengan keuntungan eksklusif, misalnya namamu tercantum di 
 
 Jika kamu menjalankan bisnis dan menggunakan Vue dalam produk yang menghasilkan pendapatan, itu masuk akal untuk mensponsori pengembangan Vue: **Ini memastikan proyek yang kamu andalkan (Vue) dalam keadaan sehat dan dikelola secara aktif.** Ini juga dapat membantu mengembangkan popularitasmu pada komunitas Vue dan mempermudah untuk menarik perhatian pengembang Vue lainnya.
 
-Jika kamu merupakan seorang individu dan menikmati produktivitas dari menggunakan Vue, pertimbangkan untuk berdonasi sebagai tanda apresiasi - seperti sesekali membelikanku kopi.
+Jika kamu merupakan seorang individu dan menikmati produktivitas dengan menggunakan Vue, pertimbangkan untuk berdonasi sebagai tanda apresiasi - seperti sesekali membelikanku kopi.
