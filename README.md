@@ -9,7 +9,7 @@ Situs dokumentasi Vue 3 berbahasa Inggris bisa diakses [disini](https://v3.vuejs
 
 ## Tata cara berkontibusi
 
-Untuk tata cara melakukan PR (Pull Request, cara berkontibusi ke dalam repositori) kita mengacu pada [komentar github berikut](https://github.com/mazipan/buku-saku-pramuka/pull/52#issuecomment-710839756) yang mana kita akan detailkan [disini untuk tata cara translasi dan menulis dokumentasi](https://v3.vuejs.org/guide/writing-guide.html), halaman tersebut belum di translasi dan akan ada pengubahan beberapa kalimat / aturan.
+Untuk tata cara melakukan PR (Pull Request, cara berkontibusi ke dalam repositori) kita mengacu pada [komentar github berikut](https://github.com/mazipan/buku-saku-pramuka/pull/52#issuecomment-710839756) yang mana kita akan detailkan [disini untuk tata cara translasi dan menulis dokumentasi](https://v3.vuejs.org/guide/writing-guide.html), halaman tersebut sudah di translasi dan akan ada pengubahan beberapa kalimat / aturan.
 
 ## Pengembangan Situs
 
